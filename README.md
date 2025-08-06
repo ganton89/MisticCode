@@ -1,5 +1,5 @@
 # MisticCode
-Proyecto Modulo 1 - Phyton \n
+\n Proyecto Modulo 1 - Phyton
 Juego principal: Piedra, papel y tijera \n
 Equipo 2: Mistic coders \n
 Partcipantes: 
